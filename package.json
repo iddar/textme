@@ -1,0 +1,24 @@
+{
+  "name": "textme",
+  "version": "1.0.0",
+  "description": "onlive send text to lcd display",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'no test'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/iddar/textme.git"
+  },
+  "keywords": [
+    "arduino",
+    "lcd",
+    "socket.io"
+  ],
+  "author": "iddar olivares",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iddar/textme/issues"
+  },
+  "homepage": "https://github.com/iddar/textme#readme"
+}
