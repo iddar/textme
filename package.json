@@ -4,6 +4,7 @@
   "description": "onlive send text to lcd display",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo 'no test'"
   },
   "repository": {
