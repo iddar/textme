@@ -7,3 +7,6 @@ On live send text to lcd display
 ~# npm install
 ~# npm start
 ```
+
+
+[Video Demo](https://youtu.be/ifoVkR0g9s8)
